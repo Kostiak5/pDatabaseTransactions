@@ -1,9 +1,10 @@
-A MERN-stack web app for storing shoes (with their properties) in the MongoDB Atlas database.
-Tools/languages used: HTML, CSS, JS, React & Material UI, MongoDB, NodeJS, Express 
+
 
 # Transaction Management Dashboard for a Shoe Store
 
 A React-based dashboard built with **Material UI (MUI)** for visualizing transaction data. This application fetches records from a REST API and displays them through a responsive grid of interactive cards and detailed modal views.
+Used for storing shoes (with their properties) in the MongoDB Atlas database.
+Tools/languages used: HTML, CSS, JS, React & Material UI, MongoDB, NodeJS, Express 
 
 ---
 
